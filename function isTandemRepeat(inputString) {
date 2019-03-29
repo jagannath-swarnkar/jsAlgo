@@ -1,0 +1,8 @@
+function isTandemRepeat(inputString) {
+    for (var i=0; inputString.length; i++){
+        if((inputString.slice(0,i)).includes(inputString.slice(i))){
+            return ture;
+        }else{return false;}
+    }
+
+}
