@@ -1,4 +1,4 @@
-// print tringale of 5 lines
+//? star pattern
 
 //! left-triangle
 // for(let i = 1; i <= 5; i++){
